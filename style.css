@@ -200,6 +200,7 @@ aside > p {
 }
 
 aside > ul {
+    font-size: 12px ;
     text-align:left;
     list-style: inside disc;
     list-style-position: inside;
