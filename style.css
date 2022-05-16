@@ -74,7 +74,7 @@ header{
 }
 
 .nav_links li:nth-child(1) {
-    padding: 0px 10px 0px 0px;
+    padding: 0px 0px 0px 0px;
 }
 
 .nav_links li a {
